@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Ivan | Welcome</title>
+        <link>http://example.org/</link>
+        <description>欢迎欢迎</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>yixuan.dyf@gmail.com (Ivan.Dai)</managingEditor>
+            <webMaster>yixuan.dyf@gmail.com (Ivan.Dai)</webMaster><lastBuildDate>Fri, 21 May 2021 13:27:36 &#43;0800</lastBuildDate>
+            <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Test</title>
+    <link>http://example.org/test/</link>
+    <pubDate>Fri, 21 May 2021 13:27:36 &#43;0800</pubDate>
+    <author>作者</author>
+    <guid>http://example.org/test/</guid>
+    <description><![CDATA[测试效果 hhhahahaha]]></description>
+</item></channel>
+</rss>
